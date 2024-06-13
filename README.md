@@ -1,8 +1,8 @@
 # Portfolio
 
-# Heading 1
+## Methodology
 
-## Heading 2
+## Data Collection
 
 
-### Heading 3
+### Data analysis
